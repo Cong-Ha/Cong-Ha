@@ -3,17 +3,6 @@
 Welcome! I'm Cong Ha! | <img align="center" height="18px" src="https://wakatime.com/badge/user/60466cec-ee8b-4cde-836e-e9bd9c77f063.svg"/>
 </div>
 <br/>
-
-<img src="https://raw.githubusercontent.com/Cong-Ha/Cong-Ha/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cong-Ha&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div style="display: inline_block; "><br>
   <img align="center" alt="Cong-Ha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cong-Ha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,9 +21,19 @@ Welcome! I'm Cong Ha! | <img align="center" height="18px" src="https://wakatime.
 </div>
 <hr/>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cong-Ha&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Cong-Ha/Cong-Ha/output/snake.svg" alt="Snake animation" />
 
 
-### Hi there 👋
+
+
 
 <!--
 **Cong-Ha/Cong-Ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
