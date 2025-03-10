@@ -4,7 +4,7 @@ Welcome! I'm Cong Ha! | <img align="center" height="18px" src="https://wakatime.
 </div>
 <br/>
 
-<img src="https://raw.githubusercontent.com/Cong-Ha/Cong-Ha/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cong-Ha/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cong-Ha&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
